@@ -1,19 +1,11 @@
 {
     "models": [
 	"miku/snow_miku",
-	[
-		"Alice",
-		"bronya",
-		"sakura",
-		"sin",
-		"Terisa",
-		"theresa",
-		"Tia",
-		"wed_16"
-	]
+	"theresa",
+	
     ],
     "messages": [
-        "Nep! Nep! 超人气偶像：Miku ~",
-	"Select----------------------"
+        "小飞棍来喽~",
+	"小飞棍来喽~"
     ]
 }
