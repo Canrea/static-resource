@@ -1,0 +1,16 @@
+{
+    "models": [
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ],
+        "miku/snow_miku"
+    ],
+    "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
+        "来自 Potion Maker 的 Tia 酱 ~",
+        "Nep! Nep! 超人气偶像：Miku ~"
+    ]
+}
