@@ -6,13 +6,16 @@
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
         ],
-        "miku",
+	[
+	    "miku/miku",
+	    "miku/snow_miku"
+	],
 	"mei"
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
-	"shizuku 酱，来啦 ~"
+	"shizuku 酱，来啦 ~",
         "Nep! Nep! 超人气偶像：Miku ~",
 	"Top! Top! 超人气偶像：Mei ~"
     ]
