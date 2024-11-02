@@ -1,7 +1,9 @@
 {
     "models": [
 	"miku/snow_miku",
+	[
 	"theresa",
+	]
 	
     ],
     "messages": [
