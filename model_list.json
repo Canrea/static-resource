@@ -1,13 +1,26 @@
 {
-    "models": [
-	"miku/snow_miku",
+     "models": [
 	[
-	"theresa",
-	]
-	
+            "aimierbeierding/aimierbeierding_2",
+            "aimierbeierding/aimierbeierding_3"
+        ],
+	"aimudeng_2",
+        "aisaikesi_4",
+        "banrenma_2",
+        "beierfasite_2",
+        "biaoqiang",
+        [
+            "chaijun/chaijun_3",
+            "chaijun/chaijun_4"
+        ],
+	"chuixue_3",
+        [
+            "dafeng/dafeng_2",
+            "dafeng/dafeng_4"
+        ],
+        "snow_miku"
     ],
     "messages": [
-        "小飞棍来喽~",
-	"小飞棍来喽~"
+        "小飞棍来喽~"
     ]
 }
