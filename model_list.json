@@ -1,10 +1,9 @@
 {
      "models": [
-        "snow_miku",
-        "leimu"
+	"snow_miku"
     ],
     "messages": [
-        "小飞棍来喽~",
         "小飞棍来喽~"
+
     ]
 }
